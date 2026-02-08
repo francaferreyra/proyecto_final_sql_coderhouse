@@ -1,7 +1,7 @@
 # proyecto_final_sql_coderhouse
 En este repositorio se incluirán todas las entregas del proyecto final del curso de SQL en Coderhouse
 
-Entrega 1
+Entrega 1:
 Deberás entregar los avances correspondiente a la primera entrega de tu proyecto final.
 
 Se debe entregar
